@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello, Platform-api"
+  "Hello, Epicodus"
 end 
