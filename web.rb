@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello, Pivotal"
+  "Hello, Pivotal 2"
 end 
